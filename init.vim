@@ -260,7 +260,7 @@ Plug 'cohama/agit.vim'
 " ===
 " === CSharp
 " ===
-Plug 'gmniSharp/omnisharp-vim'
+Plug 'omniSharp/omnisharp-vim'
 
 
 " ===
